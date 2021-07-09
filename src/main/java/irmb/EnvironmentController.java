@@ -1,10 +1,7 @@
 package irmb;
 
-/**
- * Hello world!
- *
- */
-public class App 
+
+public class EnvironmentController 
 {
     public static void main( String[] args )
     {
